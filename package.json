@@ -4,7 +4,7 @@
   "description": "Delivery App, BEM, SASS, Gulp, CSS Grid",
   "main": "index.js",
   "scripts": {
-    "dev": "gulp",
+    "dev": "gulp dev",
     "build": "npx gulp"
   },
   "author": "Juan De la torre @codigoconjuan",
