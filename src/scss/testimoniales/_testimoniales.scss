@@ -2,7 +2,7 @@
 @use "base/variables" as v;
 
 .testimoniales {
-    padding: v.$separacion;
+    padding: v.$separacion 0;
 
     &__heading{
         text-align: center;
