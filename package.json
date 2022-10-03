@@ -7,7 +7,7 @@
     "dev": "gulp dev",
     "build": "npx gulp"
   },
-  "author": "Juan De la torre @codigoconjuan",
+  "author": "Polar es Polar",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.3.1",
